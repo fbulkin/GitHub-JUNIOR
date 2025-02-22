@@ -1,5 +1,6 @@
-def Hello() -> None:
-    print ("Hellow 1")
-    print ("Hellow 1")
-    print ("Hellow 1")
-    print ("Hellow 1")
+def hello() -> None:
+    print ("Hellogitg")
+    
+def goodbye() -> None:
+    print ("Goodbye")
+    
