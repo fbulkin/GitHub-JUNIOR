@@ -1,2 +1,2 @@
-def new_function():
-    print('Это наша новая функция')
+def new_function():  
+    print('Внесли изменения в код')
