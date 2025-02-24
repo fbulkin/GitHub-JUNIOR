@@ -1,2 +1,4 @@
 .venv
 .vscode
+new_feature.py
+__pycache__/
